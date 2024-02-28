@@ -1,0 +1,254 @@
+#main-header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  #companylogo{
+    display: flex;
+  }
+  #logo{
+    width: 50px;
+    height: 40px;
+  }
+  #companyname{
+    font-size:x-small;
+    font-family: monospace;
+  }
+  .container {
+    display:flex;
+    align-items:center; 
+  }
+  #navbar li{
+    display:inline-block;
+    justify-content: space-between;
+    padding: 20px;
+
+  }
+  #nav-bar{
+    margin:0;
+    
+   
+   
+}
+.icons{
+   width: 20px;
+   padding:10px 
+}
+body{
+background-color: rgb(185, 245, 173);
+}
+#largecontainer{
+border:none;
+margin:0 auto;
+background-color: white;
+
+padding: 100px;
+margin:100px;
+}
+.columns{
+float: left;
+width: 50%;
+}
+.star{
+    width: 20px; 
+    padding:20px;
+
+}
+.Red{
+    color: red;
+    font-size:larger;
+}
+.redline{
+    display: flex;
+        
+}
+.firstsection{
+    display: flex;
+}
+.green{
+    height: 500px;
+    width:600px;
+    margin-left:10%;
+    margin-right: 20%;
+}
+#buttonArrow{
+    background-position: right 24px center;
+    border: none;
+    background-color: rgb(0, 255, 157);
+    padding: 12px 48px 12px 24px;
+    border-radius: 4px;
+    font-weight: bold;
+    
+}
+#secondsection{
+    display: flex;
+}
+#buttons{
+    display: inline-block;
+    padding-left: 780px;
+
+}
+#smallsentence{
+    font-size: medium;
+    font-weight:bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Btns{
+    background-color: rgb(47, 255, 175);
+}
+#thirdsection{
+    display: flex;
+    
+}
+.imgs{
+    padding: 10px;
+}
+.smallsentence1{
+    font-size: medium;
+    font-weight:bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#fourthsection{
+    display: flex;
+}
+.buttondown{
+    margin-left: 70%;
+    border: none;
+    background-color: rgb(0, 255, 157);
+    border-radius: 4px;
+    font-weight: bold;
+    
+}
+#mouse{
+    border:none;
+}
+.products{
+    width:100px
+}
+.checked{
+    color: yellow;
+}
+.pdts{
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+}
+#fifthsection{
+    display: flex;
+}
+.pdt{
+    padding: 20px;
+}
+#sixthsection{
+    display: flex;
+}
+#buttondown1{
+    margin-left: 70%;
+    margin-top: 30px;
+    height: 50px;
+    border: none;
+    background-color: rgb(0, 255, 157);
+    border-radius: 4px;
+    font-weight: bold;
+   
+}
+.samsung{
+    height: 500px;
+
+}
+#sum{
+    justify-content: center
+}
+#smallsentence2{
+    font-size: x-large;
+}
+#seventhsection{
+    display: flex;
+}
+#sevenright{
+    padding-left:700px
+}
+.pdits{
+    padding-left:  250px;
+
+}
+#eigthsection{
+    display: flex;
+    border: none;
+    background-color: rgb(165, 231, 168);
+    padding: 20px;
+   
+}
+#gren{
+    height:350px;
+    background-color: rgb(150, 241, 211);
+}
+#ninthsection{
+    display: flex;
+}
+.pits{
+    border:none;
+    padding: 20px;
+}
+.pts{
+    font-size: large;
+    font-weight: bolder;
+    font-family: Courier;
+}
+.form{
+border: none;
+margin-left: 200px;
+margin-top:50px ;
+}
+#buttondown4{
+    border-radius: 50px;
+    width: 150px;
+    height: 50px;
+    margin-left: 250px;
+    margin-top:50px ;
+    background-color: rgb(142, 201, 136);
+}
+#tenthsection{
+    display: flex;
+}
+.fb{
+    width:20px;
+}
+.cond{
+    width:10px;
+    height: 12px;
+    margin-top: 15px;
+}
+#con{
+    font-size: small;
+    padding-left: 5px;
+}
+#coditions{
+    display: flex;
+}
+#eleventhsection{
+    display: flex;
+}
+.first{
+    padding-left: 100px;
+    margin-top: 50px;
+}
+.foot{
+    width:20px;
+    margin-top: 190px;
+    
+}
+.ft{
+    font-weight: lighter;
+    padding: 20px;
+    font-size: xx-small;
+
+}
+#twelvethsection{
+    display: flex;
+}
+#tf{
+    margin-left: 500px;
+    display: flex;
+    margin-top: 150px;
+}
